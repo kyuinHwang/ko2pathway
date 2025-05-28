@@ -28,7 +28,9 @@ Or run each script individually for modular control:
 
 ## Scripts
 1_track_steps.py: Checks KO presence for each step in KEGG modules.
+
 2_evaluate_modules.py: Determines whether each module is likely functional, based on majority step coverage and key step presence.
+
 3_check_reactions.py: Detects simple reactions based on presence of relevant KO(s).
 
 ## Input
