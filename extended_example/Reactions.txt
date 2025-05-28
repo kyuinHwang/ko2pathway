@@ -1,0 +1,74 @@
+Category	Rank	Reaction	Geneset/#Geneset	GeneName/#Gene	GB_GCA_003599485.1	GB_GCA_023381235.1	GB_GCA_023484125.1
+Nitrogen	Reaction.Half	Nitrate reduction (Rev)	1		N	N	N
+Nitrogen	Reaction.Half	Nitrate reduction	1		N	N	N
+Nitrogen	Reaction.Half	Nitrite reduction Ammonia	3		Y	Y	Y
+Nitrogen	Reaction.Half	Nitrite reduction Nitric oxide (Rev)	1		Y	Y	Y
+Nitrogen	Reaction.Half	Nitrite reduction Nitric oxide	1		N	N	N
+Nitrogen	Reaction.Half	Nitric oxide reduction Nitrous oxide	2		N	N	N
+Nitrogen	Reaction.Half	Nitrous oxide reduction	1		N	N	N
+Nitrogen	Reaction.Half	Nitrogen fixation	2		N	N	N
+Nitrogen	Reaction.Half	Ammonia oxidation	1		N	N	N
+Nitrogen	Reaction.Half	Hydroxylamine oxidation (Rev)	1		N	N	N
+Nitrogen	Reaction.Half	Nitric oxide dioxidation	1		N	N	N
+Nitrogen	Reaction.Half	Hydrazine synthesis	1		N	N	N
+Nitrogen	Reaction.Half	Hydrazine dehydrogenesis Nitrogen gas	1		N	N	N
+Nitrogen	Reaction.Half	Urea oxidation	3		Y	Y	Y
+Nitrogen	Reaction.Half	Urea oxidation through allophanate	2		N	N	N
+Nitrogen	Reaction.Half	Glutamate deamination	2		N	N	N
+Nitrogen	Reaction.Half	Cyanide deamination	1		N	N	N
+Nitrogen	Reaction.Half	Nitrile deamination	1		N	N	N
+Nitrogen	Reaction.Half	Nitroalkane deamination	2		N	N	N
+Fermentation	Reaction.Half	glucose to pyruvate and acetyl-P	1		Y	N	Y
+Fermentation	Reaction.Half	pyruvate to lactate	2		Y	Y	Y
+Fermentation	Reaction.Half	lactate to acetate	1		Y	Y	Y
+Fermentation	Reaction.Half	pyruvate to acetate	1		N	N	N
+Fermentation	Reaction.Half	pyruvate to Acetyl-P	1		N	N	N
+Fermentation	Reaction.Half	acetyl-P to acetate	2		Y	Y	Y
+Fermentation	Reaction.Half	Acetyl-CoA to Acetate	1		N	N	N
+Fermentation	Reaction.Half	Acetyl-CoA to Acetyl-P	2		N	N	N
+Fermentation	Reaction.Half	Acetate to Acetaldehyde	5		N	N	N
+Fermentation	Reaction.Half	Acetyl-CoA to Acetaldehyde	5		N	N	N
+Fermentation	Reaction.Half	Acetaldehyde to Ethanol	14		N	N	N
+Fermentation	Reaction.Half	Pyruvate to propionate	1		N	N	N
+Fermentation	Reaction.Half	Pyruvate to butylate	1		N	N	N
+Fermentation	Reaction.Half	Pyruvate to butanol	1		N	N	N
+Fermentation	Reaction.Half	Pyruvate to Butanediol	1		N	N	N
+Fermentation	Reaction.Half	pyruvate to formate and Acetyl-CoA	1		N	N	N
+Fermentation	Reaction.Half	Formate to CO2 & H2	7		N	N	N
+Hydrogen	Reaction.Half	Hydrogenase	5		Y	Y	Y
+Carbon	Reaction.Half	Methane oxidation	1		N	N	N
+Carbon	Reaction.Half	Aerobic methanogenesis	1		N	N	N
+Carbon	Reaction.Half	Anaerobic carbon monoxide oxidation (Rev)	2		N	N	N
+Carbon	Reaction.Half	CBB Cycle	1		Y	Y	N
+Carbon	Reaction.Half	Acetyle CoA Synthesis (Bacteria, WL)	1		N	N	N
+Carbon	Reaction.Half	Acetyle CoA Synthesis (Archaea, WL)	1		N	N	N
+Carbon	Reaction.Half	phosphorylation ED pathway	1		N	N	N
+Carbon	Reaction.Half	semi-phosphorylation ED pathway	1		N	N	N
+Carbon	Reaction.Half	semi-phosphorylation ED pathway2 (-ATP)	1		N	N	N
+Carbon	Reaction.Half	Low affinity cytochrome c oxidase aa3	2		N	N	N
+Carbon	Reaction.Half	High affinity cytochrome c oxidase cbb3	2		Y	Y	Y
+Sulfur	Reaction.Half	Sulfate reduction1	1		N	N	N
+Sulfur	Reaction.Half	Sulfate reduction2	3		N	N	N
+Sulfur	Reaction.Half	Sulfur oxidation	3		N	N	N
+Sulfur	Reaction.Half	Sulfite oxidation	3		N	N	N
+Sulfur	Reaction.Half	Sulfide oxidation	2		Y	Y	Y
+Sulfur	Reaction.Half	Sulfite reduction	1		N	N	N
+Sulfur	Reaction.Half	Sulfur reduction	5		Y	Y	Y
+Sulfur	Reaction.Half	Thiosulfate oxidation sulfate	1		Y	N	N
+Sulfur	Reaction.Half	Thiosulfate oxidation sulfite	1		N	N	N
+Sulfur	Reaction.Half	Thiosulfate oxidation tetrathionate	2		Y	Y	Y
+Sulfur	Reaction.Half	Tetrathionate reduction thiosulfate	2		N	N	N
+Sulfur	Reaction.Half	Tetrathionate oxidation Thiosulfate Sulfur Sulfate	1		N	N	N
+Sulfur	Reaction.Half	Thiosulfate oxidation Sulfur, Sulfite	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Methionine)	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Cysteine)	2		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Methanesulfonate)	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Sulfopropanediol)	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Taurine)	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Sulfoacetaldehyde)	1		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Sulfate esters)	2		N	N	N
+Sulfur	Reaction.Half	Sulfur mineralization (Alkanesulfonate)	1		N	N	N
+Iron	Reaction.Half	Neutrophilic iron oxidation	1		N	N	N
+Iron	Reaction.Half	Acidophilic iron oxidation	3		N	Y	N
+Iron	Reaction.Half	Netrophilic Probable iron oxidation	2		N	N	N
+Iron	Reaction.Half	iron_reduction	3		N	N	N

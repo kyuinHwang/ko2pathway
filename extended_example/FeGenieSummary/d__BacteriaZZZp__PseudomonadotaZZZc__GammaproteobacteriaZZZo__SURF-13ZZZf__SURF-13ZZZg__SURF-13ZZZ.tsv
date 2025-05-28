@@ -1,0 +1,12 @@
+geneCategory	geneName	GB_GCA_003599485.1	GB_GCA_023381235.1	GB_GCA_023484125.1
+iron_aquisition-iron_transport	FbpB-FutB-family-iron-permease	1	1	0
+iron_aquisition-iron_transport	FutA1-family-iron-binding-proteins	1	1	0
+iron_aquisition-siderophore_transport	PvdT-family-siderophore-export	1	1	0
+iron_aquisition-siderophore_transport_potential	ExbB-family	2	1	2
+iron_aquisition-siderophore_transport_potential	ExbD-family	2	1	2
+iron_aquisition-siderophore_transport_potential	TonB-family	1	0	1
+iron_gene_regulation	PF01475-Iron_dependent_repressor-fur_family	2	2	2
+iron_gene_regulation	PF04773_FecR	0	0	1
+iron_gene_regulation	Sid_PvdS_regulator_Paeruginosa_PA2426_180620	1	0	0
+iron_oxidation	Cyc2_repCluster3	0	1	0
+iron_storage	PF00210-Ferritin_like_domain	2	1	1

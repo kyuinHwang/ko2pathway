@@ -1,0 +1,2 @@
+python P1_SearchKeyEznyme.py ./KO/d__BacteriaZZZp__PseudomonadotaZZZc__GammaproteobacteriaZZZo__SURF-13ZZZf__SURF-13ZZZg__SURF-13ZZZ ./Reactions.txt ./KeyEnzymes/Nitrogen.txt,./KeyEnzymes/Fermentation.txt,./KeyEnzymes/Hydrogen.txt,./KeyEnzymes/Carbon.txt,./KeyEnzymes/Sulfur.txt ./blastSulfur.txt
+python P2_IronOxidoreductase.py ./FeGenieSummary/d__BacteriaZZZp__PseudomonadotaZZZc__GammaproteobacteriaZZZo__SURF-13ZZZf__SURF-13ZZZg__SURF-13ZZZ.tsv ./Reactions.txt

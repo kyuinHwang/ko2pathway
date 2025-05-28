@@ -1,0 +1,47 @@
+glucose to pyruvate and acetyl-P	Xfp,xpk	K01621
+pyruvate to lactate	L-ldhA	K00016
+pyruvate to lactate	D-ldhA	K03778
+lactate to acetate	lldA	K00467
+pyruvate to acetate	poxB	K00156
+pyruvate to Acetyl-P	poxL	K00158
+acetyl-P to acetate	acyP	K01512
+acetyl-P to acetate	ackA	K00925
+Acetyl-CoA to Acetate	ACH1	K01067
+Acetyl-CoA to Acetyl-P	pta	K13788
+Acetyl-CoA to Acetyl-P	eutD	K04020
+Acetate to Acetaldehyde	ALDH	K00128
+Acetate to Acetaldehyde	ALDH9A1	K00149
+Acetate to Acetaldehyde	ALDH7A1	K14085
+Acetate to Acetaldehyde	ALDH3	K00129
+Acetate to Acetaldehyde	aldB	K00138
+Acetyl-CoA to Acetaldehyde	adhE	K00132
+Acetyl-CoA to Acetaldehyde	adhE_2	K04072
+Acetyl-CoA to Acetaldehyde	mhpF	K04073
+Acetyl-CoA to Acetaldehyde	bphJ	K18366
+Acetyl-CoA to Acetaldehyde	eutE	K04021
+Acetaldehyde to Ethanol	ADH1_7	K13951
+Acetaldehyde to Ethanol	ADH4	K13980
+Acetaldehyde to Ethanol	ADH6	K13952
+Acetaldehyde to Ethanol	adhP	K13953
+Acetaldehyde to Ethanol	ylaY	K13954
+Acetaldehyde to Ethanol	adh	K00001
+Acetaldehyde to Ethanol	ADH5	K00121
+Acetaldehyde to Ethanol	adhE	K04072
+Acetaldehyde to Ethanol	ADH1	K18857
+Acetaldehyde to Ethanol	mdh1,2	K14028-9
+Acetaldehyde to Ethanol	exaA	K00114
+Acetaldehyde to Ethanol	adh	K00002
+Acetaldehyde to Ethanol	autG	K04022
+Acetaldehyde to Ethanol	adhABS	K22473-5
+Pyruvate to propionate	ygfH	K18118
+Pyruvate to butylate	ptb, buk	K00634,K00929
+Pyruvate to butanol	bdhAB	K00100
+Pyruvate to Butanediol	alsD,butB	K01575,K00004
+pyruvate to formate and Acetyl-CoA	pf1D	K00656
+Formate to CO2 & H2	FDH	K00122
+Formate to CO2 & H2	fdhF	K00123
+Formate to CO2 & H2	fdhF_2	K22015
+Formate to CO2 & H2	fdhF2	K22341
+Formate to CO2 & H2	fdhA	K05299
+Formate to CO2 & H2	fdhA_2	K22516
+Formate to CO2 & H2	fdnG	K08348

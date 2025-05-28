@@ -1,0 +1,5 @@
+Hydrogenase	hoxHFUY	K00436,K18005-7
+Hydrogenase	hndABCD	K03620,K06281-2
+Hydrogenase	hyaABC	K17992,K18330-2
+Hydrogenase	hyaABC2	K00437,K18008,K03620
+Hydrogenase	mbhLKJ	K18023,K18016-7

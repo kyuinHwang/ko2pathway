@@ -1,0 +1,14 @@
+Methane oxidation	pmoABC	K10944-6
+Aerobic methanogenesis	phnJ	K06163
+Anaerobic carbon monoxide oxidation (Rev)	cdhAB	K00192,K00195
+Anaerobic carbon monoxide oxidation (Rev)	cooFS	K00196,K00198
+CBB Cycle	pbp,RuBiscoLS	K00855,K01601-2
+Acetyle CoA Synthesis (Bacteria, WL)	acsBCD	K00194,K00197,K14138
+Acetyle CoA Synthesis (Archaea, WL)	cdhCDE	K00193,K00194,K00197
+phosphorylation ED pathway	edd,eda	K01690,K01625
+semi-phosphorylation ED pathway	kdgK,eda	K00874,K01625
+semi-phosphorylation ED pathway alternative	sskdgK,kdpgA	K18126,K11395
+Low affinity cytochrome c oxidase aa3	coxABCD	K02274-7
+Low affinity cytochrome c oxidase aa3	coxAC.BC	K15408,K02275,K02277
+High affinity cytochrome c oxidase cbb3	ccoNOPQ	K00404-7
+High affinity cytochrome c oxidase cbb3	ccoNO.PQ	K15862,K00406-7

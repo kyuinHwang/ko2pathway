@@ -1,0 +1,37 @@
+Sulfate reduction1	sat	K00958
+Sulfate reduction2	aprAB	K00394-5
+Sulfate reduction2	aprM	BLAST
+Sulfate reduction2	qmoABC	K16885-7
+Sulfur oxidation	dsrAB (ox)	K11180-1
+Sulfur oxidation	fsrNC(F420)	K21816
+Sulfur oxidation	Hdr-like	BLAST
+Sulfite oxidation	soeABC	K21307-9
+Sulfite oxidation	sorAB	K05301,K00386
+Sulfite oxidation	SUOX	K00387
+Sulfide oxidation	sqr	K17218
+Sulfide oxidation	fccAB	K17229-30
+Sulfite reduction	asrAB	K16951-2
+Sulfur reduction	Npsr_rho	BLAST
+Sulfur reduction	psrA	K08352
+Sulfur reduction	sreABC	K17219-21
+Sulfur reduction	hydABDG	K17993-6
+Sulfur reduction	Npsr_Mod	BLAST
+Thiosulfate oxidation sulfate	soxABXYZCD	K17222-7,K22622
+Thiosulfate oxidation sulfite	glpE/TST	K02439
+#Thiosulfate oxidation sulfite	pdo_rho	BLAST
+Thiosulfate oxidation tetrathionate	doxD	K16937
+Thiosulfate oxidation tetrathionate	tsdA	K19713
+Tetrathionate reduction thiosulfate	OTR	BLAST
+Tetrathionate reduction thiosulfate	ttrABC	K08357-9
+Tetrathionate oxidation Thiosulfate Sulfur Sulfate	tetH	BLAST
+Thiosulfate oxidation Sulfur, Sulfite	phsABC	K08353-4
+Sulfur mineralization (Methionine)	mgl	K01761
+Sulfur mineralization (Cysteine)	dcyD	K05396
+Sulfur mineralization (Cysteine)	cuyA	K17950
+Sulfur mineralization (Methanesulfonate)	msmAB	K16968-9
+Sulfur mineralization (Sulfopropanediol)	hspN	K15509
+Sulfur mineralization (Taurine)	tauD	K03119
+Sulfur mineralization (Sulfoacetaldehyde)	xsc	K03852
+Sulfur mineralization (Sulfate esters)	betC	K01133
+Sulfur mineralization (Sulfate esters)	aslA	K01130
+Sulfur mineralization (Alkanesulfonate)	ssuD	K04091

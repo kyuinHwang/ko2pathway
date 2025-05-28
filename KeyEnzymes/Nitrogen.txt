@@ -1,0 +1,28 @@
+Nitrate reduction (Rev)	narGHI	K00370-1,K00374
+Nitrate reduction	napAB	K02567-8
+Nitrite reduction to Ammonia	nirBD	K00362-3
+Nitrite reduction to Ammonia	nrfAH	K03385,K15876
+Nitrite reduction to Ammonia	nrfBCDEFG	K04013-8
+Nitrite reduction to Nitric oxide (Rev)	nirK	K00368
+Nitrite reduction to Nitric oxide	nirS	K15864
+Nitric oxide reduction to Nitrous oxide	norBC	K04561,K02305
+Nitric oxide reduction to Nitrous oxide	hcp	K05601
+Nitrous oxide reduction	nosZ	K00376
+Nitrogen fixation	nifHDKG	K02588,K02586,K02591,K00531
+Nitrogen fixation	vnfDKGH	K22896-9
+Ammonia oxidation	amoABC	K10944-6
+Hydroxylamine oxidation (Rev)	hao/hox	K10535
+Nitric oxide dioxidation	NOD	K05916
+Hydrazine synthesis	hzs	K20932-4
+Hydrazine dehydrogenesis to Nitrogen gas	hdh	K20935
+Urea hydrolysis	ureABC	K01428-30
+Urea hydrolysis	ureAB.C	K01428,K14048
+Urea hydrolysis	URE	K01427
+Urea amidolyase	UCA,atzF	K01941,K01457
+Urea amidolyase	DUR1	K14541
+Glutamate deamination	gltS	K00284
+Glutamate deamination	gudB	K00260
+Cyanide deamination	cynS	K01725
+Nitrile deamination	NIT	K01501
+Nitroalkane deamination	ncd2	K00459
+Nitroalkane deamination	NAO	K19823
