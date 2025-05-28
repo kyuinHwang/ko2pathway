@@ -2,11 +2,6 @@
 
 This pipeline analyzes KO annotations of draft microbial genomes (e.g. SAGs, MAGs) to infer their potential metabolic functions. 
 
-The analysis is divided into two main tracks:
-Module-based inference using KEGG definitions (multi-step pathways such as glycolysis, TCA cycle)
-Simple reaction inference based on single or a small set of KOs (e.g., sulfite oxidation)
-
-
 ## Installation
 This pipeline requires Python 3.10 or higher
 No additional Python packages are strictly required, as the pipeline mainly uses standard libraries and subprocess calls.
