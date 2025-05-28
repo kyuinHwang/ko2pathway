@@ -58,6 +58,7 @@ This directory provides example input files used in our full research pipeline, 
 By default (run_pipeline.py), the results are summarized into two tab-delimited tables:
 
 ./OUTPUT_DIR/Pathway.txt: Summarizes the presence (Y) or absence (N) of complex pathways (based on KEGG modules) for each genome.
+
 ./OUTPUT_DIR/Reactions.txt: Summarizes the presence (Y) or absence (N) of simple reactions for each genome.
 Each row corresponds to a genome, and each column to a specific pathway or reaction.
 
