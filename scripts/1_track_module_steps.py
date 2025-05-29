@@ -54,7 +54,7 @@ def parseModuleDefinition(moduleDefinition,moduleID,debug):
     ## minus sign denotes a non-essential component in the complex # 2023.08
     ## remove from euqation
     while moduleStr.find("-") > 0:
-        print(f"Warning : Minus is included in {moduleID}")
+        if debug: print(f"Warning : Minus is included in {moduleID}")
         idxMinus = moduleStr.find("-")
         if moduleStr[idxMinus+1] == "(": ## -(K02134+K02314) ## Remove
             posEndR = findChars(moduleStr,")",idxMinus+1,1)
@@ -144,7 +144,7 @@ def main():
 
     koDir, outFN = args.ko_dir, args.output
     debug = args.debug
-    debug_module = True
+    debug_module = args.debug
     usesubmodule = False
     moduleFN = args.module_file #"kegg/module/module.gz"
     moduleDict, moduleNameDict = parseModule(moduleFN, debug_module, submodule=usesubmodule)
