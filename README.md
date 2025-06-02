@@ -21,7 +21,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/kyuinHwang/ko2pathway.git
-cd GenomeHabitatClassifier
+cd ko2pathway
 ```
 
 ## Usage
