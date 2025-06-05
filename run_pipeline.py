@@ -9,6 +9,8 @@ def main():
     parser.add_argument("--output_dir", required=True, help="Output directory for results.")
     args  = parser.parse_args()  
 
+    if not os.path.exists(args.module_file): raise ValueError(f"No KEGG Database file for module definition was found from given path (args.module_file)")
+
     if not os.path.exists(args.output_dir): os.mkdir(args.output_dir)
 
     subprocess.run(['python', './scripts/1_track_module_steps.py', f"--ko_dir={args.ko_dir}", f"--module_file={args.module_file}", f"--output={args.output_dir}/Steps.txt"])

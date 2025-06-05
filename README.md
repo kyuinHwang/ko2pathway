@@ -28,7 +28,7 @@ cd ko2pathway
 
 Run the entire pipeline:
 ``` bash
-run_pipeline.py --ko_dir ./inputKOs --module_file /kegg/module/module.gz --keyenzyme_dir ./KeyEnzymes --output_dir ./output
+python run_pipeline.py --ko_dir ./inputKOs --module_file /kegg/module/module.gz --keyenzyme_dir ./KeyEnzymes --output_dir ./output
 ```
 
 Or run each script individually for modular control:
