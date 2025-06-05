@@ -43,6 +43,8 @@ python run_pipeline.py --ko_dir ./examples/KO --module_file /kegg/module/module.
 
 💡 Tip: Make sure the --module_file argument points to the correct location of your KEGG module file.
 
+The demo runs in a few seconds on a standard desktop environment.
+
 Or run each script individually for modular control:
 
 ## Scripts
