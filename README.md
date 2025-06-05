@@ -24,6 +24,9 @@ git clone https://github.com/kyuinHwang/ko2pathway.git
 cd ko2pathway
 ```
 
+Tested on Ubuntu 24.04 (Docker container on macOS) with Python 3.12.7 and standard library only.
+System requirements: No special hardware is required. The pipeline runs on a standard laptop environment
+
 ## Usage
 
 Run the entire pipeline:
