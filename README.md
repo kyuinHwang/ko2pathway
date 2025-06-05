@@ -84,7 +84,8 @@ By default (with run_pipeline.py), the results are summarized into two tab-delim
 ./OUTPUT_DIR/Reactions.txt: Summarizes the presence (Y) or absence (N) of simple reactions for each genome.
 Each row corresponds to a genome, and each column to a specific pathway or reaction.
 
-The examples for three public genomes of g__SURF-13 was available in ./examples/output/
+Example output files can be found in ./examples/output/.
+
 ## License
 
 This repository is released under the MIT License.
