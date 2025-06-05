@@ -173,12 +173,12 @@ def main():
             for stepIDX, modulePart in enumerate(moduleContents):
                 ## See M00611
                 transModulePart = modulePart[:]
-                moIDs = re.findall("M\d\d\d\d\d",modulePart)                
+                moIDs = re.findall(r"M\d\d\d\d\d",modulePart)                
                 while len(moIDs) > 0:
                     for moID in moIDs: transModulePart = transModulePart.replace(moID,'*'.join(moduleDict[moID]))                    
-                    moIDs = re.findall("M\d\d\d\d\d",transModulePart)
+                    moIDs = re.findall(r"M\d\d\d\d\d",transModulePart)
 
-                koIDs = re.findall("K\d\d\d\d\d",transModulePart)
+                koIDs = re.findall(r"K\d\d\d\d\d",transModulePart)
                 for koID in koIDs: transModulePart = transModulePart.replace(koID,str(koCnt[koID]))
                 if debug:
                     print(modulePart)
