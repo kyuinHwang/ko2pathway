@@ -28,6 +28,8 @@ Tested on Ubuntu 24.04 (Docker container on macOS) with Python 3.12.7 and standa
 
 System requirements: No special hardware is required. The pipeline runs on a standard laptop environment
 
+Installation time note: Cloning the repository and setting up the pipeline takes only a few seconds on a standard system.
+
 ## Usage
 
 Run the entire pipeline:
