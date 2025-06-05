@@ -32,11 +32,13 @@ Cloning the repository and setting up the pipeline takes only a few seconds on a
 
 **System requirements:** No special hardware is required. The pipeline runs on a standard laptop environment
 
+**KEGG module definitions:** Access to the official KEGG module definitions (`module.gz`) requires a KEGG FTP subscription. Make sure to obtain the appropriate license and download the file before running the pipeline.
+
 ## Usage
 
 Run the entire pipeline:
 ``` bash
-python run_pipeline.py --ko_dir ./examples --module_file /kegg/module/module.gz --keyenzyme_dir ./KeyEnzymes --output_dir ./output
+python run_pipeline.py --ko_dir ./examples/KO --module_file /kegg/module/module.gz --keyenzyme_dir ./KeyEnzymes --output_dir ./output
 ```
 
 💡 Tip: Make sure the --module_file argument points to the correct location of your KEGG module file.

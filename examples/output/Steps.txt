@@ -1,0 +1,37 @@
+Module	#Steps(Lv.1)	StepDef	GB_GCA_003599485.1	GB_GCA_023381235.1	GB_GCA_023484125.1	Name
+M00001	1	(K00844+K12407+K00845+K00886+K08074+K00918)	T	T	T	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	2	(K01810+K06859+K13810+K15916)	T	T	T	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	3	(K00850+K16370+K00918+K21071)	F	F	F	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	4	(K01623+K01624+K11645+K16305+K16306)	T	T	T	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	5	K01803	T	F	T	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	6	((K00134+K00150)*K00927+K11389)	T	T	F	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	7	(K01834+K15633+K15634+K15635)	T	T	T	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	8	K01689	T	T	F	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00001	9	(K00873+K12406)	T	T	F	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+M00003	1	(K01596+K01610)	F	F	F	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	2	K01689	T	T	F	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	3	(K01834+K15633+K15634+K15635)	T	T	T	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	4	K00927	T	T	F	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	5	(K00134+K00150)	T	T	F	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	6	K01803	T	F	T	Gluconeogenesis, oxaloacetate => fructose-6P
+M00003	7	((K01623+K01624+K11645)*(K03841+K02446+K11532+K01086+K04041)+K01622)	T	T	T	Gluconeogenesis, oxaloacetate => fructose-6P
+M00009	1	(K01647+K05942)	T	T	T	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	2	(K01681+K01682)	T	T	T	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	3	(K00031+K00030)	T	T	T	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	4	((K00164*K00658*K00382)+(K00174*K00175))	F	F	F	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	5	((K01902*K01903)+(K01899*K01900)+K18118)	T	F	F	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	6	((K00234*K00235*K00236*K00237)+(K00239*K00240*K00241)+(K00244*K00245*K00246))	F	F	F	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	7	(K01676+K01679+(K01677*K01678))	F	F	F	Citrate cycle (TCA cycle, Krebs cycle)
+M00009	8	(K00026+K00025+K00024+K00116)	F	F	F	Citrate cycle (TCA cycle, Krebs cycle)
+M00012	1	K01647	T	T	T	Glyoxylate cycle
+M00012	2	(K01681+K01682)	T	T	T	Glyoxylate cycle
+M00012	3	K01637	F	F	F	Glyoxylate cycle
+M00012	4	(K01638+K19282)	F	F	F	Glyoxylate cycle
+M00012	5	(K00026+K00025+K00024)	F	F	F	Glyoxylate cycle
+M00086	1	K01897+K15013	T	T	T	beta-Oxidation, acyl-CoA synthesis
+M00087	1	(K00232+K00249+K00255+K06445+K09479)	F	F	F	beta-Oxidation
+M00087	2	(((K01692+K07511+K13767)*(K00022+K07516))+K01825+K01782+K07514+K07515+K10527)	F	F	F	beta-Oxidation
+M00087	3	(K00632+K07508+K07509+K07513)	F	F	F	beta-Oxidation
+M00309	1	K05308	F	F	F	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate
+M00309	2	(K11395+K18127)	F	F	F	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate
+M00309	3	((K18020*K18021*K18022)+K18128+K03738)	F	F	F	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate

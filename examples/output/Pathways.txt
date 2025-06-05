@@ -1,0 +1,7 @@
+Rank	moduleID	moduleDef/stepID	#steps/stepDef	GB_GCA_003599485.1	GB_GCA_023381235.1	GB_GCA_023484125.1
+1.Module	M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	9	Y	Y	N
+1.Module	M00003	Gluconeogenesis, oxaloacetate => fructose-6P	7	Y	Y	N
+1.Module	M00009	Citrate cycle (TCA cycle, Krebs cycle)	8	Y	N	N
+1.Module	M00012	Glyoxylate cycle	5	N	N	N
+1.Module	M00087	beta-Oxidation	3	N	N	N
+1.Module	M00309	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate	3	N	N	N
