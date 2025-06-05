@@ -66,7 +66,7 @@ This directory contains files listing the KOs responsible for simple metabolic r
 > The selection of KOs, key-steps and threshold were curated based on KEGG release from October 23, 2019. Since the module definition and participating KOs may have changed, users working with a different KEGG version should manually verify :
 > (1) the list of target module IDs in 1_track_steps.py, (2) threshold and key steps defined in 2_evalulate_modules.py, and (3) the KO lists in files under ./KeyEnzymes
 
-./examples/:
+./examples/KO:
 Contains KO profiles of three public genomes belonging to the genus g__SURF-13.
 
 ./extended_examples/:
@@ -84,6 +84,7 @@ By default (with run_pipeline.py), the results are summarized into two tab-delim
 ./OUTPUT_DIR/Reactions.txt: Summarizes the presence (Y) or absence (N) of simple reactions for each genome.
 Each row corresponds to a genome, and each column to a specific pathway or reaction.
 
+The examples for three public genomes of g__SURF-13 was available in ./examples/output/
 ## License
 
 This repository is released under the MIT License.
